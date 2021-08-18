@@ -400,6 +400,10 @@ p{
     padding-bottom: 20%;
 }
 
+.hobbies li{
+    font-size: 10px;
+}
+
 
   .mobile-links {
     display: block;
