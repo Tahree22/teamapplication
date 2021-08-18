@@ -47,7 +47,6 @@ hr {
 
 .about {
   padding-top: 10%;
-  padding-bottom: 20%;
   width: 100%;
   height: 100vh;
   background: #fec196;
@@ -335,6 +334,12 @@ footer p {
 
   h1{
     font-size: 28px;
+}
+
+.about{
+    padding-top: 10%;
+    padding-bottom: 15%;
+
 }
 
 .intro{
