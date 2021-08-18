@@ -349,6 +349,7 @@ footer p {
 
 .intro{
     width: 100%;
+    height: 100vh;
 }
 
 .about p{
@@ -396,6 +397,7 @@ p{
 }
 
 .hobbies{
+    height: 100vh;
     padding-top: 10px;
     padding-bottom: 20%;
 }
@@ -410,6 +412,7 @@ p{
   }
   .skills {
     width: 100%;
+    height: 100vh;
   }
   .skills-list {
     width: 100%;
