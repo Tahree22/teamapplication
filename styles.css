@@ -46,7 +46,8 @@ hr {
 }
 
 .about {
-  padding: 10% 0;
+  padding-top: 10%;
+  padding-bottom: 20%;
   width: 100%;
   height: 100vh;
   background: #fec196;
