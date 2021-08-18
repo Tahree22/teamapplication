@@ -346,6 +346,14 @@ footer p {
     width: 100%;
 }
 
+.about p{
+    font-size: 14px
+}
+
+.about li{
+    font-size: 12px;
+}
+
 .intro p{
     font-size: 20px;
     width: 90%;
@@ -383,6 +391,7 @@ p{
 
 .hobbies{
     padding-top: 10px;
+    padding-bottom: 20%;
 }
 
 
